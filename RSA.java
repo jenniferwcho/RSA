@@ -8,7 +8,7 @@ import java.util.Scanner;
 * RSA is one of the first public-key cryptosystems and is widely 
 * used for secure data transmission.
 *
-* @author  Da Bin Lee(Binny), Jennifer Cho
+* @author  Jennifer Cho
 * @since   2018-11-14 
 */
 public class RSA {
